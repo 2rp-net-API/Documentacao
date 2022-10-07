@@ -101,8 +101,8 @@ ADP, integração com o login e extração padronizada das horas executadas.
 | Repositório                                                       | Descrição                                                                          |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Documentation](https://github.com/2rp-net-API/2rp-net-API) | Documentação do sistema                                                      |
-| [Client](https://github.com/2rp-net-API/2RP/tree/main/Sprint%201/Programa%C3%A7%C3%A3o/Front-End)           | Aplicação Client com a interface dos Funcionários                                       |
-| [Server](https://github.com/2rp-net-API/2RP/tree/main/Sprint%201/Programa%C3%A7%C3%A3o/Back-End)           | Aplicação Server que gerencia todas as requisições e comunicação com o banco de dados |
+| [Client](https://github.com/2rp-net-API/Front-End)           | Aplicação Client com a interface dos Funcionários                                       |
+| [Server](https://github.com/2rp-net-API/Back-End)           | Aplicação Server que gerencia todas as requisições e comunicação com o banco de dados |
 
 <br>
 
