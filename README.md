@@ -113,14 +113,24 @@ ADP, integração com o login e extração padronizada das horas executadas.
 <img src="./Imagens Gerais/tela login.png"/>
 </p>
 
-<p align="center">Tela Hora Extra</p>
+<p align="center">Tela Hora Extra Funcionário</p>
 <p align="center">
 <img src="./Imagens Gerais/tela hora extra.png"/>
 </p>
 
-<p align="center">Tela Gestor</p>
+<p align="center">Tela Sobreaviso</p>
 <p align="center">
-<img src="./Imagens Gerais/tela gestor.png"/>
+<img src="./Imagens Gerais/tela sobreaviso.png"/>
+</p>
+
+<p align="center">Tela Gestor Hora Extra</p>
+<p align="center">
+<img src="./Imagens Gerais/tela gestor hora extra.png"/>
+</p>
+
+<p align="center">Tela Gestor Sobreaviso</p>
+<p align="center">
+<img src="./Imagens Gerais/tela gestor sobreaviso.png"/>
 </p>
 
 <br>
