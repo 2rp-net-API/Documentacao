@@ -118,7 +118,7 @@ ADP, integração com o login e extração padronizada das horas executadas.
 <img src="./Imagens Gerais/tela hora extra.png"/>
 </p>
 
-<p align="center">Tela Sobreaviso</p>
+<p align="center">Tela Sobreaviso Funcionário</p>
 <p align="center">
 <img src="./Imagens Gerais/tela sobreaviso.png"/>
 </p>
