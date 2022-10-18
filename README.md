@@ -51,7 +51,7 @@ ADP, integração com o login e extração padronizada das horas executadas.
 
 - [x] [SPRINT 1](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%201) - 29/08 a 18/09: Concluído :heavy_check_mark:
 
-- [x] [SPRINT 2](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%202) - 19/09 a 09/10: Em andamento  
+- [x] [SPRINT 2](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%202) - 19/09 a 09/10: Concluído  
 
 - [x] [SPRINT 3](https://github.com/2rp-net-API/Documentacao/tree/main/Sprint%203) - 13/10 a 06/11: Em andamento
 
