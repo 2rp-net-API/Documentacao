@@ -9,7 +9,7 @@ Documentos da sprint 1
 
 # 📃 Backlog da Sprint
 
-[Sprint Backlog](https://github.com/2rp-net-API/2RP/blob/main/Sprint%201/Documenta%C3%A7%C3%A3o/Sprint%20Backlog%20Total.pdf)
+[Sprint Backlog](https://github.com/2rp-net-API/Documentacao/blob/main/Imagens%20Gerais/Sprintbacklog.png)
 
 
 # Entregas
