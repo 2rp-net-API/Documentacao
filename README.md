@@ -135,7 +135,7 @@ ADP, integração com o login e extração padronizada das horas executadas.
 
 <br>
 
-## :page_with_curl: Backlog
+## :page_with_curl: User Story
 
 <h1 align="left"> <img src = "./Imagens Gerais/Product Backlog 1.jpg"/></h1>
 
