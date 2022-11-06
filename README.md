@@ -18,7 +18,7 @@
   <a href ="#computer-modelagem-do-banco-de-dados"> Modelagem </a>  •
   <a href ="#package-repositórios"> Repositórios </a>  •
   <a href ="#pencil2-prototipos"> Protótipos </a>  • 
-  <a href ="#page_with_curl-User Story"> User Story </a>  • 
+  <a href ="#page_with_curl-User-Story"> User Story </a>  • 
   <a href ="#mortar_board-team"> Equipe </a> 
 </p>
 
