@@ -45,9 +45,9 @@ ADP, integração com o login e extração padronizada das horas executadas.
 
 <br>
 
-## :spiral_calendar: Sprints
+## :spiral_calendar: Cronograma
 
-[Sprint Backlog](https://github.com/2rp-net-API/Documentacao/blob/main/Imagens%20Gerais/cronograma.jpg)
+<img src = "/Imagens Gerais/cronograma.jpg">
 
 <br>
 
