@@ -11,7 +11,7 @@
   <a href ="#checkered_flag-Desafio"> Desafio </a>  • 
   <a href ="#two_men_holding_hands-atores"> Atores </a>  •
   <a href ="#information_source-objetivos"> Objetivos </a>  • 
-  <a href ="#spiral_calendar-sprints"> Cronograma</a>  • 
+  <a href ="#spiral_calendar-Cronograma"> Cronograma</a>  • 
   <a href ="#world_map-mapa-do-site"> Mapa </a>  • 
   <a href ="#bulb-metodologia-utilizada"> Metodologia </a>  • 
   <a href ="#wrench-tecnologias-utilizadas"> Tecnologias </a>  • 
