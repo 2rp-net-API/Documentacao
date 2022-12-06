@@ -59,7 +59,8 @@ ADP, integração com o login e extração padronizada das horas executadas.
 
 ## :wrench: Tecnologias Utilizadas
 
-<img src = "/Imagens Gerais/Imagem tecnologias utilizadas.jpeg" width="680" height="511">
+![Tecnologias Utilizadas](https://user-images.githubusercontent.com/79644827/205891561-fb543fae-7fbd-41b6-b144-a43b9d2b4990.png)
+
 
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
 * **Banco de Dados:** PostgreSQL;
@@ -127,9 +128,8 @@ ADP, integração com o login e extração padronizada das horas executadas.
 
 ## :page_with_curl: User Story
 
-<h1 align="left"> <img src = "./Imagens Gerais/Product Backlog 1.jpg"/></h1>
-
-<h1 align="left"> <img src = "./Imagens Gerais/Product Backlog 2.png"/></h1>
+![UserStory-1](https://user-images.githubusercontent.com/79644827/205892233-8bdded92-9c6b-4d35-9eda-f4ff6b109d52.png)
+![UserStory-2](https://user-images.githubusercontent.com/79644827/205892700-1018c4b9-8fe8-4146-af47-8b2080921935.png)
 
 <br>
 
